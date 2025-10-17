@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-💻 I'm passionate about technology and enthusiast of new intelligent solutions to all kinds of situations. I have experience building systems from the planning phase of getting all requirements of the software until the delivery of the system in an agile schedule, also i develop several frontend applications focusing on web and mobile devices.  
+💻 I'm passionate about technology and enthusiast of new intelligent solutions to all kinds of situations. I have experience building systems from the planning phase of getting all requirements of the software until the delivery of the system including testing in an agile schedule like Scrum, also develop frontend applications mostly on web and mobile devices.
 </p>
 
 
@@ -26,8 +26,7 @@
 
 ## About me:
 
-  - 🔭 I’m currently open for working!
-  - 🌱 I’m perfecting my skills
+  - 🔭 I’m currently **open for working!**
   - 💻 I’m looking to learn more about **Typescript**
   - 💬 Ask me about **Hybrid mobile development**
   - 📫 How to reach me: **juanvic.almeida@gmail.com**
